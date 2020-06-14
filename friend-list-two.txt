@@ -4,4 +4,3 @@ three three
 -------------------------------
 ------------------------------
 Git version 
-New text for master
