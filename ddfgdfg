@@ -1,0 +1,13 @@
+[1mdiff --git a/friend-list-two.txt b/friend-list-two.txt[m
+[1mindex 6d51b2a..14fe29a 100644[m
+[1m--- a/friend-list-two.txt[m
+[1m+++ b/friend-list-two.txt[m
+[36m@@ -31,4 +31,5 @@[m [mafter pull added some text[m
+ Ten Ten Ten[m
+ Twenty Twenty Twenty[m
+ [m
+[31m-TABLE[m
+\ No newline at end of file[m
+[32m+[m[32mTABLE[m
+[32m+[m[32mgit diff[m
+\ No newline at end of file[m
