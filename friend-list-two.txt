@@ -39,7 +39,37 @@ after clone
 
 git add table
 
-
+<!-- Main-menu start===================================================vvv -->
+            <div class="main-menu">
+                    <ul>
+                        <li>Menu &#8681</li>
+                            <div class="dropdown">
+                                <li><a href="#basic-html">Basic HTML</a></li>
+                                <li><a href="#formatting">Formatting</a></li>
+                                <li><a href="#forms-and-input">Forms and Input</a></li>
+                                <li><a href="#frames">Frames</a></li>
+                                <li><a href="#images">Images</a></li>
+                                <li><a href="#audio/video">Audio / Video</a></li>
+                                <li><a href="#links">Links</a></li>
+                                <li><a href="#lists">Lists</a></li>
+                                <li><a href="#tables">Tables</a></li>
+                                <li><a href="#styles-and-semantics">Styles and Semantics</a></li>
+                                <li><a href="#meta-info">Meta Info</a></li>
+                                <li><a href="#programming">Programming</a></li>
+                                <div class="note_area">
+                                        <p class="note_icon">Note</p>
+                                        <div class="note_content">
+                                          <li><span class="atr"></span>  মানে এই element বা tag এর কি কি attribute আছে। আর ‍সকল element বা tag এর ই Global attribute আছে বা কাজ কররে । এটা আলাদা ভাবে লেখা হয়নি। </li>
+                                          <li><span class="elem"></span>  মানে এই element  বা tag  এর ভিতরে আর কোন কোন  element  বা tag   গুলো ব্যবহর করা হয় বা যায়।</li>
+                                          <li><span class="use"></span> মানে এই element  বা tag টি আর কোন কোন element বা tag এর ভিতরে ব্যবহার করা যায় বা যাবে।</li>
+                                          <li> block মানে এটি block element আর inline মানে এটি inline element। </li>
+                                        
+                                        </div>
+                                    </div>
+                            </div>
+                    </ul>
+                </div>
+        <!-- main-menu end=====================================================^^^ -->
 
 
 
