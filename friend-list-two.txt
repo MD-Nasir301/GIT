@@ -97,3 +97,4 @@ git add table
         <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Cumque ut rem placeat repellat expedita corporis maiores, ratione, quam exercitationem voluptatum amet porro explicabo assumenda aliquid eius cupiditate accusantium similique? Tempore doloribus voluptatem ex inventore reprehenderit commodi, sequi ducimus, architecto iste optio incidunt a fugiat eum quia at, totam fugit eius!</p>
         <hr>
         New text
+        New Text 2
