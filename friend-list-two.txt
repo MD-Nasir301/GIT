@@ -105,6 +105,7 @@ git add table
         New text 6
         New text 7
         New text 8
+        New text 9
 
 
 
