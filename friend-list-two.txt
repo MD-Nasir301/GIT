@@ -103,6 +103,7 @@ git add table
 
         New text 5
         New text 6
+        New text 7
 
 
 
