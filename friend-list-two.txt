@@ -1,3 +1,124 @@
 one one
-
+--------------------------------
 three three
+-------------------------------
+------------------------------
+Git version 
+new text master
+new text table 
+new text table
+<p>My name is Nasirullah Babu. I am 25. I am a student. I live in a village. My father is a teacher. My mother is a housewife.
+I have two brother and four sister. The name of our village is Koerabo. It is a very small village. 
+When i was nine years old my family going to Dhaka for living. </p>
+
+<h1> This is a heading one </h1>
+<h2> This is a heading two </h2>
+<h3> This is a heading three </h3>
+<h4> This is a heading four </h4> 
+<h5> This is a heading five </h5>
+<h6> This is a heading six </h6>
+
+<a> git pull </a>
+git added some text 
+master text added
+git added some text 
+
+Table text here
+after pull added some text 
+
+
+after pull added some text 
+Ten Ten Ten
+Twenty Twenty Twenty
+
+TABLE
+
+git diff
+git add table
+
+a
+brother
+after clone 
+
+git add table
+
+<!-- Main-menu start===================================================vvv -->
+            <div class="main-menu">
+                    <ul>
+                        <li>Menu &#8681</li>
+                            <div class="dropdown">
+                                <li><a href="#basic-html">Basic HTML</a></li>
+                                <li><a href="#formatting">Formatting</a></li>
+                                <li><a href="#forms-and-input">Forms and Input</a></li>
+                                <li><a href="#frames">Frames</a></li>
+                                <li><a href="#images">Images</a></li>
+                                <li><a href="#audio/video">Audio / Video</a></li>
+                                <li><a href="#links">Links</a></li>
+                                <li><a href="#lists">Lists</a></li>
+                                <li><a href="#tables">Tables</a></li>
+                                <li><a href="#styles-and-semantics">Styles and Semantics</a></li>
+                                <li><a href="#meta-info">Meta Info</a></li>
+                                <li><a href="#programming">Programming</a></li>
+                                <div class="note_area">
+                                        <p class="note_icon">Note</p>
+                                        <div class="note_content">
+                                          <li><span class="atr"></span>  মানে এই element বা tag এর কি কি attribute আছে। আর ‍সকল element বা tag এর ই Global attribute আছে বা কাজ কররে । এটা আলাদা ভাবে লেখা হয়নি। </li>
+                                          <li><span class="elem"></span>  মানে এই element  বা tag  এর ভিতরে আর কোন কোন  element  বা tag   গুলো ব্যবহর করা হয় বা যায়।</li>
+                                          <li><span class="use"></span> মানে এই element  বা tag টি আর কোন কোন element বা tag এর ভিতরে ব্যবহার করা যায় বা যাবে।</li>
+                                          <li> block মানে এটি block element আর inline মানে এটি inline element। </li>
+                                        
+                                        </div>
+                                    </div>
+                            </div>
+                    </ul>
+                </div>
+        <!-- main-menu end=====================================================^^^ -->
+
+<div class="sheet_heading">
+            <h1>HTML SHEET</h1>
+            <p>SHEET NO-1 PART-1</p>
+        </div>
+        <h2 class="part">&#9830 &#9830 &#9830 All HTML TAG &#9830 &#9830 &#9830</h2>
+
+        <h3 id="basic-html" class="topic">Basic Html Tag</h3>
+
+        <!-- all heading -->
+        <xmp class="t b"><h1>  to  </h6>  </xmp> <p class="atr">Global</p>
+        <h1>HTML ALL TAG</h1>
+        <h2>HTML ALL TAG</h2>
+        <h3>HTML ALL TAG</h3>
+        <h4>HTML ALL TAG</h4>
+        <h5>HTML ALL TAG</h5>
+        <h6>HTML ALL TAG</h6>
+        <hr>
+
+     <!-- paragraph -->
+        <xmp class="t b"><p>  </p></xmp><p class="atr">Global</p>
+        <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Cumque ut rem placeat repellat expedita corporis maiores, ratione, quam exercitationem voluptatum amet porro explicabo assumenda aliquid eius cupiditate accusantium similique? Tempore doloribus voluptatem ex inventore reprehenderit commodi, sequi ducimus, architecto iste optio incidunt a fugiat eum quia at, totam fugit eius!</p>
+        <hr>
+        New text
+        New Text 2
+        New Text 3 
+        add new text 4
+
+        New text 5
+        New text 6
+        New text 7
+        New text 8
+        New text 9
+        New text 10
+        New text 11
+        
+
+        This is V.3
+        New text in v.3
+        New text in v.3 two
+
+
+
+
+
+
+
+
+
