@@ -112,7 +112,7 @@ git add table
 
         This is V.3
         New text in v.3
-        New text in v.3 two 
+        New text in v.3 two
 
 
 
