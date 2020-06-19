@@ -96,23 +96,9 @@ git add table
         <xmp class="t b"><p>  </p></xmp><p class="atr">Global</p>
         <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Cumque ut rem placeat repellat expedita corporis maiores, ratione, quam exercitationem voluptatum amet porro explicabo assumenda aliquid eius cupiditate accusantium similique? Tempore doloribus voluptatem ex inventore reprehenderit commodi, sequi ducimus, architecto iste optio incidunt a fugiat eum quia at, totam fugit eius!</p>
         <hr>
-        New text
-        New Text 2
-        New Text 3 
-        add new text 4
-
-        New text 5
-        New text 6
-        New text 7
-        New text 8
-        New text 9
-        New text 10
-        New text 11
+  
+     
         
-
-        This is V.3
-        New text in v.3
-        New text in v.3 two
 
 
 
