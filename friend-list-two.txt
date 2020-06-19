@@ -38,9 +38,7 @@ brother
 after clone 
 
 git add table
-
-
-
+end v.2
 
 
 
