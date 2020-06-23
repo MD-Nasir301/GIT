@@ -33,6 +33,7 @@ after clone
 
 git add table
 end v.4
+new text for test git commit amount in github
 
 
 ========================================v.4======================================================================
