@@ -4,43 +4,8 @@ three three
 -------------------------------
 ------------------------------
 Git version 
-new text master
-new text table 
-new text table
-<p>My name is Nasirullah Babu. I am 25. I am a student. I live in a village. My father is a teacher. My mother is a housewife.
-I have two brother and four sister. The name of our village is Koerabo. It is a very small village. 
-When i was nine years old my family going to Dhaka for living. </p>
-
-<h1> This is a heading one </h1>
-<h2> This is a heading two </h2>
-<h3> This is a heading three </h3>
-<h4> This is a heading four </h4> 
-<h5> This is a heading five </h5>
-<h6> This is a heading six </h6>
-
-<a> git pull </a>
-git added some text 
-master text added
-git added some text 
-
-Table text here
-after pull added some text 
 
 
-after pull added some text 
-Ten Ten Ten
-Twenty Twenty Twenty
+=======
 
-TABLE
-
-a
-brother
-after clone 
-
-git add table
-end v.4
-
-
-=======================================================v.4======================================================================
-
-
+New text for table
