@@ -39,6 +39,7 @@ after clone
 
 git add table
 end v.2
+added some text d
 
 
 
